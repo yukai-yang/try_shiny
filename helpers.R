@@ -23,3 +23,5 @@ adjust <- function(data) {
       axts[ , 5] <- Vo(data)
       axts
 }
+
+ftmp <- function(x){return(0)}
